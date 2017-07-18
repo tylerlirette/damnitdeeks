@@ -3,16 +3,34 @@ html, body {
   margin: 0;
   width: 100%;
   height: 100%;
-  background-color: black
-  color: white
+  background-color: #000000;
+  color: #FFFFFF;
 }
 
 h1 {
   font-size: 48px;
-  background-color: black
+  background-color: #000000;
+  color: #FFFFFF;
 }
 
 p {
-  background-color: black
-  color: white
+  max-width: 65%;
+  min-width: 500px;
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2.6rem;
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+div {
+  padding-right: 30px;
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  color: #FFFFFF;
 }
